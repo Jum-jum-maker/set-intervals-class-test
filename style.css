@@ -1,0 +1,10 @@
+body{
+    background-color: #58355e;
+}
+#countdown{
+    text-align: center;
+    font-size: 50px;
+    margin-right: 100px;
+    color: #e5dada;
+    margin-top: 70px;
+}
